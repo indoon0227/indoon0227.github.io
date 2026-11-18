@@ -1,0 +1,5 @@
+# app-ads.txt for Free PDF Editor - All PDF Tools
+# Android package: com.freepdfeditor.allpdftools
+# Publisher: pub-7356718370255743 (Google AdMob)
+# Format: <ad system domain>, <publisher account ID>, <relationship type>
+google.com, pub-7356718370255743, DIRECT
